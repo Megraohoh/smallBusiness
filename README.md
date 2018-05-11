@@ -14,7 +14,7 @@ Once your data is normalized, use your DOM skills to display a card for each emp
 > Obviously not a fabulous blog look, but it fulfills the requirements. -->
 
 
-<!-- ![Screenshot of EDR](https://raw.githubusercontent.com/morecallan/CSS-exercise-articles/master/screenshots/Article.png) -->
+![Screenshot of EDR](https://github.com/Megraohoh/smallBusiness/blob/master/ERDsmallBusiness.png)
 
 
 ### How to run (Node must be installed on your machine):
