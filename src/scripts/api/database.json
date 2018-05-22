@@ -1,0 +1,56 @@
+{
+    "Employees": [
+        {
+            "id": 1,
+            "name": "Joe Lowe",
+            "departmentId": 2,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "name": "Little Ron",
+            "departmentId": 1,
+            "computerId": 2
+        },
+        {
+            "id": 3,
+            "name": "Dejan Mustard",
+            "departmentId": 1,
+            "computerId": 3
+        },
+        {
+            "id": 4,
+            "name": "Arwa S.",
+            "departmentId": 2,
+            "computerId": 4
+        }
+    ],
+    "Department": [
+        {
+            "id": 1,
+            "name": "HR"
+        },
+        {
+            "id": 2,
+            "name": "IT"
+        }
+    ],
+    "Computer": [
+        {
+            "id": 1,
+            "name": 3224
+        },
+        {
+            "id": 2,
+            "name": 6635
+        },
+        {
+            "id": 3,
+            "name": 8825
+        },
+        {
+            "id": 4,
+            "name": 9984
+        }
+    ]
+}
